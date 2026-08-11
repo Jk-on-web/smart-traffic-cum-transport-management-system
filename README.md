@@ -83,6 +83,21 @@ The system combines **5 core infrastructure modules** into a unified urban grid:
 
 ---
 
+---
+
+## 🎥 Live Demonstration & System Explanation
+
+Watch the full hardware demonstration and system walkthrough presented live by **Jayakrishnan S**:
+
+<div align="center">
+  <a href="https://drive.google.com/file/d/1Lp6x3fym5R8gUyPqTqTYOi8-sTnOHGm-/view?usp=sharing" target="_blank">
+    <img src="./DSC05878.JPG" alt="Watch UrbanFlow Demo" width="600"/>
+    <p><b>▶️ Click here to watch the full project demonstration on Google Drive</b></p>
+  </a>
+</div>
+
+---
+
 ##  Credits & Acknowledgments
 
 * **Developer:** Master Jayakrishnan S (Class XII Science, PM SHRI JNV Kollam)
