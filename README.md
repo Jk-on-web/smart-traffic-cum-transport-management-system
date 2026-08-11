@@ -18,8 +18,8 @@ An integrated smart city traffic management system designed to eliminate emergen
 - **Programming Language:** Embedded C / C++ (Arduino Framework)
 
 ##  Source Code
-- [RF Receiver Code (Ambulance Unit)](./receive/receive.ino)
-- [RF Transmitter Code (Traffic Signal Unit)](./transmit1/transmit1.ino)
+- [RF Receiver Code (Traffic Signal Unit)](./receive/receive.ino)
+- [RF Transmitter Code (Ambulance Unit)](./transmit1/transmit1.ino)
 
 ##  Official Competition Documentation
   **[View Full National Write-Up (PDF)](./Smart_Traffic_System_Writeup.pdf)**
