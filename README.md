@@ -3,7 +3,7 @@
 #  URBANFLOW
 ### Smart Transportation and Traffic Monitoring System
 
-> 🏆 **Rashtriya Bal Vaiganik Pradarshani Entry (2025–26)**[cite: 2]  
+> 🏆 **Regional and Cluster first prize (2025–26)**[cite: 2]  
 > **NVS National Level Exhibition — PM SHRI Jawahar Navodaya Vidyalaya, Kollam (Hyderabad Region)**[cite: 2]
 
 An integrated, multi-controller IoT infrastructure project designed to eliminate emergency vehicle delays, automate traffic signal timing, prevent road overload damage, monitor urban air quality, and conserve municipal lighting energy[cite: 2].
