@@ -78,8 +78,8 @@ The system combines **5 core infrastructure modules** into a unified urban grid[
 
 * 📄 **[View Full Technical Write-Up (PDF)](./Smart_Traffic_System_Writeup.pdf)**[cite: 2]
 * 🏆 **[View Official National Exhibition Certificate](./NVS_National_Certificate_2.pdf)**[cite: 1]
-* 💻 **[RF Transmitter Code (Ambulance Unit)](./src/rf_transmitter_ambulance.ino)**[cite: 2]
-* 💻 **[RF Receiver Code (Traffic Signal Unit)](./src/rf_receiver_traffic_light.ino)**[cite: 2]
+* 💻 **[RF Transmitter Code (Ambulance Unit)](./transmit1/transmit1.ino)**[cite: 2]
+* 💻 **[RF Receiver Code (Traffic Signal Unit)](./receive/receive.ino)**[cite: 2]
 
 ---
 
